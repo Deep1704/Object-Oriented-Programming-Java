@@ -14,7 +14,7 @@ while(!str.equals("quit"))
 	{			
 
 		System.out.println("Enter a Sentence");
-	    str=sc.nextLine();
+	        str=sc.nextLine();
 
 		for(int i=0;i<str.length();i++)
 		{
